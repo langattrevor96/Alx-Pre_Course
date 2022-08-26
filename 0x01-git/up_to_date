@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 touch up_to_date
 =======
 Touch up_to_date/0x01-git
 >>>>>>> 0a0ce3f90cada6727c4aa3af5f6fb95e925eeeed
+=======
+git pull up_to_date
+>>>>>>> 0c8a7b3938860d9596805285e6cdf0c82b0e7b4d
